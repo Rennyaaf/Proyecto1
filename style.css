@@ -356,6 +356,7 @@ h2 {
 
     .header {
         min-height: 0vh;
+        height: 450px;
     }
 
     .header-content {
@@ -363,7 +364,7 @@ h2 {
     }
 
     .header-txt h1 {
-        font-size: 50px;
+        font-size: 70px;
     }
 
     .header-txt p {
@@ -412,7 +413,7 @@ h2 {
     }
 
     .info-2 {
-        padding: 280px 30px;
+        padding: 400px 30px 300px 30px;
         background-size: cover;
         margin-top: -180px;
     }
@@ -423,7 +424,7 @@ h2 {
 
     .testi-left {
         width: 100%;
-        padding-right: 100%;
+        padding: 0;
     }
 
     .testi-right {
@@ -452,5 +453,9 @@ h2 {
 
     .footer-txt {
         margin-top: 30px;
+    }
+
+    .footer h2 {
+        margin-bottom: 20px;
     }
 }
